@@ -20,7 +20,3 @@ This project presents an interactive Power BI dashboard analyzing sales performa
 * **Data Source:** Microsoft Excel (`BlinkIT Grocery Data.xlsx`)
 * **BI Tool:** Microsoft Power BI Desktop
 * **Techniques Used:** DAX Measures, Data Modeling, Custom UI/UX Design, Bookmarks & Selection Panes for navigation.
-
-## How to View
-1. Download the `BlinkIT_Dashboard.pbix` file from this repository.
-2. Open it using **Power BI Desktop**.
