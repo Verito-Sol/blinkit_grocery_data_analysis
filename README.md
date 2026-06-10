@@ -3,7 +3,7 @@ Power BI dashboard for BlinkIT grocery sales and performance metrics.
 # BlinkIT Grocery Sales Analysis Dashboard
 
 ## Project Overview
-This project presents an interactive Power BI dashboard analyzing sales performance, customer satisfaction, and inventory distribution for **BlinkIT (India's Last Minute App)**. The analysis provides actionable insights into revenue drivers, outlet types, and product category trends.
+This project presents an interactive Power BI dashboard analyzing sales performance, customer satisfaction, and inventory distribution for **BlinkIT**. The analysis provides actionable insights into revenue drivers, outlet types, and product category trends.
 
 ## Key Performance Indicators (KPIs)
 * **Total Sales:** $1.20M
